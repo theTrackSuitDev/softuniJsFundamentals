@@ -1,0 +1,1 @@
+Folder contains a file for exercise purposes ofter the "Git nad GitHub" topic.
